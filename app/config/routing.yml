@@ -1,0 +1,4 @@
+vision_presentation:
+    resource: "@VisionPresentationBundle/Resources/config/routing.yml"
+    prefix:   /
+
